@@ -7,10 +7,10 @@ $pangrams = include_once dirname(__FILE__) . '/getPangrams.php';
 
 // load library
 include_once dirname(__FILE__) . '/../transliteratorPlus.php';
-$cac = new transliteratorPlus();
-$cac->toLower(false);
-$cac->punctuation(true);
-$cac->setDelimiter(' ');
+$tp = new transliteratorPlus();
+$tp->toLower(false);
+$tp->punctuation(true);
+$tp->setDelimiter(' ');
 
 
 ?>
@@ -38,7 +38,7 @@ $cac->setDelimiter(' ');
 			<tr>
 				<td><?php echo $language; ?></td>
 				<td width="50%"><?php echo $original; ?></td>
-				<td width="50%"><?php echo $cac->getOutput($original); ?></td>
+				<td width="50%"><?php echo $tp->getOutput($original); ?></td>
 			</tr>
 			<? } ?>
 		</tbody>
