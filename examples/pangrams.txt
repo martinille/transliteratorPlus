@@ -1,0 +1,61 @@
+PANGRAMS - useful for testing encoding in different languages.
+
+English: A quick brown fox jumps over the lazy dog.
+Arabic: صِف خَلقَ خَودِ كَمِثلِ الشَمسِ إِذ بَزَغَت — يَحظى الضَجيعُ بِها نَجلاءَ مِعطارِ
+Azeri: Zəfər, jaketini də papağını da götür, bu axşam hava çox soyuq olacaq.
+Breton: Yec’hed mat Jakez ! Skarzhit ar gwerennoù-mañ, kavet e vo gwin betek fin ho puhez.
+Bulgarian: Ах чудна българска земьо, полюшвай цъфтящи жита.
+Catalan: «Dóna amor que seràs feliç!». Això, il·lús company geniüt, ja és un lluït rètol blavís d’onze kWh.
+Cherokee: ᎠᏍᎦᏯᎡᎦᎢᎾᎨᎢᎣᏍᏓᎤᎩᏍᏗᎥᎴᏓᎯᎲᎢᏔᎵᏕᎦᏟᏗᏖᎸᎳᏗᏗᎧᎵᎢᏘᎴᎩ 
+Croatian: Gojazni đačić s biciklom drži hmelj i finu vatu u džepu nošnje.
+Czech: Nechť již hříšné saxofony ďáblů rozezvučí síň úděsnými tóny waltzu, tanga a quickstepu.
+Danish: Quizdeltagerne spiste jordbær med fløde, mens cirkusklovnen Walther spillede på xylofon.
+Dzongkha: ཨ་ཡིག་དཀར་མཛེས་ལས་འཁྲུངས་ཤེས་བློའི་གཏེར༎ ཕས་རྒོལ་ཝ་སྐྱེས་ཟིལ་གནོན་གདོང་ལྔ་བཞིན༎ ཆགས་ཐོགས་ཀུན་བྲལ་མཚུངས་མེད་འཇམ་དབྱངསམཐུས༎ མཧཱ་མཁས་པའི་གཙོ་བོ་ཉིད་འགྱུར་ཅིག།
+Esperanto: Eble ĉiu kvazaŭ-deca fuŝĥoraĵo ĝojigos homtipon.
+Estonian: Põdur Zagrebi tšellomängija-följetonist Ciqo külmetas kehvas garaažis
+Finnish: Wieniläinen sioux’ta puhuva ökyzombie diggaa Åsan roquefort-tacoja.
+French: Bâchez la queue du wagon-taxi avec les pyjamas du fakir. Voix ambiguë d’un cœur qui au zéphyr préfère les jattes de kiwi
+West Frisian: Alve bazige froulju wachtsje op dyn komst
+German: Falsches Üben von Xylophonmusik quält jeden größeren Zwerg
+Greek: Ταχίστη αλώπηξ βαφής ψημένη γη, δρασκελίζει υπέρ νωθρού κυνός Takhístè alôpèx vaphês psèménè gè, draskelízei ypér nòthroý kynós
+Hebrew: דג סקרן שט בים מאוכזב ולפתע מצא חברה dg sqrn šṭ bjM mʾwkzb wlptʿ mṣʾ ḥbrh
+Hindi: ऋषियों को सताने वाले दुष्ट राक्षसों के राजा रावण का सर्वनाश करने वाले विष्णुवतार भगवान श्रीराम, अयोध्या के महाराज दशरथ के बड़े सपुत्र थे।
+Hungarian: Jó foxim és don Quijote húszwattos lámpánál ülve egy pár bűvös cipőt készít. Árvíztűrő tükörfúrógép.
+Icelandic: Kæmi ný öxi hér, ykist þjófum nú bæði víl og ádrepa. Svo hölt, yxna kýr þegði jú um dóp í fé á bæ.
+Igbo: Nne, nna, wepụ he’l’ụjọ dum n’ime ọzụzụ ụmụ, vufesi obi nye Chukwu, ṅụrịanụ, gbakọọnụ kpaa, kwee ya ka o guzoshie ike; ọ ghaghị ito, nwapụta ezi agwa.
+Indonesian: Muharjo seorang xenofobia universal yang takut pada warga jazirah, contohnya Qatar.
+Irish: D’fhuascail Íosa Úrmhac na hÓighe Beannaithe pór Éava agus Ádhaimh
+Italian: Quel vituperabile xenofobo zelante assaggia il whisky ed esclama: alleluja!
+Japanese: いろはにほへと ちりぬるを わかよたれそ つねならむ うゐのおくやま けふこえて あさきゆめみし ゑひもせす（ん）
+Javanese: ꧋ ꦲꦤꦕꦫꦏ꧈ ꦢꦠꦱꦮꦭ꧈ ꦥꦝꦗꦪꦚ꧈ ꦩꦒꦧꦛꦔ꧉ Hanacaraka, datasawala, padhajayanya, magabathanga.
+Klingon:      qajunpaQHeylIjmo’ batlh DuSuvqang charghwI’ ‘It.
+Korean: 키스의 고유조건은 입술끼리 만나야 하고 특별한 기술은 필요치 않다. Kiseu-ui goyujogeoneun ipsulkkiri mannaya hago teukbyeolhan gisureun pilyochi antha.
+Latin: Sic fugiens, dux, zelotypos, quam Karus haberis.
+Latvian: Muļķa hipiji mēģina brīvi nogaršot celofāna žņaudzējčūsku.
+Lithuanian: Įlinkdama fechtuotojo špaga sublykčiojusi pragręžė apvalų arbūzą
+Lojban: .o’i mu xagji sofybakni cu zvati le purdi
+Macedonian: Ѕидарски пејзаж: шугав билмез со чудење џвака ќофте и кељ на туѓ цех.
+Malayalam: അജവും ആനയും ഐരാവതവും ഗരുഡനും കഠോര സ്വരം പൊഴിക്കെ ഹാരവും ഒഢ്യാണവും ഫാലത്തില്‍ മഞ്ഞളും ഈറന്‍ കേശത്തില്‍ ഔഷധ എണ്ണയുമായി ഋതുമതിയും അനഘയും ഭൂനാഥയുമായ ഉമ ദുഃഖഛവിയോടെ 
+Mapudungun: Ngütram minchetu apochiküyeṉ: ñidol che mamüll ka rag kushe ḻafkeṉ mew.
+Mongolian: Щётканы фермд пийшин цувъя. Бөгж зогсч хэльюү.
+Myanmar: Vår sære Zulu fra badeøya spilte jo whist og quickstep i min taxi.
+Polish: Dość gróźb fuzją, klnę, pych i małżeństw! Chwyć małżonkę, strój bądź pleśń z fugi.
+Portuguese: Luís argüia à Júlia que «brações, fé, chá, óxido, pôr, zângão» eram palavras do português.
+Romanian: Înjurând pițigăiat, zoofobul comandă vexat whisky și tequila.
+Russian:  В чащах юга жил бы цитрус? Да, но фальшивый экземпляр!
+Sanskrit: कः खगौघाङचिच्छौजा झाञ्ज्ञोऽटौठीडडण्ढणः। तथोदधीन् पफर्बाभीर्मयोऽरिल्वाशिषां सहः।।
+Scottish Gaelic: Mus d’fhàg Cèit-Ùna ròp Ì le ob.
+Serbian: Gojazni đačić s biciklom drži hmelj i finu vatu u džepu nošnje. Љубазни фењерџија чађавог лица хоће да ми покаже штос.
+Slovak: Kŕdeľ šťastných ďatľov učí pri ústí Váhu mĺkveho koňa obhrýzať kôru a žrať čerstvé mäso.
+Slovenian: V kožuščku hudobnega fanta stopiclja mizar. Šerif bo za vajo spet kuhal domače žgance.
+Spanish:  José compró una vieja zampoña en Perú. Excusándose, Sofía tiró su whisky al desagüe de la banqueta.
+Swedish: Yxskaftbud, ge vår WC-zonmö IQ-hjälp. Gud hjälpe Zorns mö qvickt få byxa.
+Tagalog: Ang bawat rehistradong kalahok sa patimpalak ay umaasang magantimpalaan ng ñino
+Thai: เป็นมนุษย์สุดประเสริฐเลิศคุณค่า กว่าบรรดาฝูงสัตว์เดรัจฉาน จงฝ่าฟันพัฒนาวิชาการ อย่าล้างผลาญฤๅเข่นฆ่าบีฑาใคร ไม่ถือโทษโกรธแช่งซัดฮึดฮัดด่า หัดอภัยเหมือนกีฬาอัชฌาสัย ปฏิบัติประพฤติกฎกำหนดใจ พูดจาให้จ๊ะๆ จ๋าๆ น่าฟังเอยฯ
+Tibetan: ༈ དཀར་མཛེས་ཨ་ཡིག་ལས་འཁྲུངས་ཡེ་ཤེས་གཏེར། །ཕས་རྒོལ་ཝ་སྐྱེས་ཟིལ་གནོན་གདོང་ལྔ་བཞིན། །ཆགས་ཐོགས་ཀུན་བྲལ་མཚུངས་མེད་འཇམ་བྱངས་མཐུས། །མ་ཧཱ་མཁས་པའི་གཙོ་བོ་ཉིད་གྱུར་ཅིག།
+Turkish: Öküz ajan hapse düştü yavrum, ocağı felç gibi. 
+Ukrainian: Жебракують філософи при ґанку церкви в Гадячі, ще й шатро їхнє п’яне знаємо.
+Urdu: ٹھنڈ میں، ایک قحط زدہ گاؤں سے گذرتے وقت ایک چڑچڑے، باأثر و فارغ شخص کو بعض جل پری نما اژدہے نظر آئے۔
+Uyghur: ئاۋۇ بىر جۈپ خوراز فرانسىيەنىڭ پارىژ شەھرىگە يېقىن تاغقا كۆچەلمىدى.
+Yoruba: Ìwò̩fà ń yò̩ séji tó gbojúmó̩, ó hàn pákànpò̩ gan-an nis̩é̩ rè̩ bó dò̩la. 
+Welsh: Parciais fy jac codi baw hud llawn dŵr ger tŷ Mabon.
