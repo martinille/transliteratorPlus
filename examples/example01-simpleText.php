@@ -6,8 +6,8 @@ $pangrams = include_once dirname(__FILE__) . '/getPangrams.php';
 
 
 // load library
-include_once dirname(__FILE__) . '/../convertAccentedCharacters.php';
-$cac = new convertAccentedCharacters();
+include_once dirname(__FILE__) . '/../transliteratorPlus.php';
+$cac = new transliteratorPlus();
 $cac->toLower(false);
 $cac->punctuation(true);
 $cac->setDelimiter(' ');

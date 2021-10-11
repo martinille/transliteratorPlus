@@ -1,7 +1,7 @@
 <?php
 
 
-class convertAccentedCharacters {
+class transliteratorPlus {
 
 	// allow punctuation in output string
 	private $punctuation = false;
@@ -21,7 +21,7 @@ class convertAccentedCharacters {
 	 * @param bool $boolean
 	 * @return $this
 	 */
-	public function punctuation(bool $boolean): convertAccentedCharacters {
+	public function punctuation(bool $boolean): transliteratorPlus {
 		$this->punctuation = $boolean;
 		return $this;
 	}
@@ -32,7 +32,7 @@ class convertAccentedCharacters {
 	 * @param bool $boolean
 	 * @return $this
 	 */
-	public function toLower(bool $boolean): convertAccentedCharacters {
+	public function toLower(bool $boolean): transliteratorPlus {
 		$this->toLower = $boolean;
 		return $this;
 	}
@@ -44,7 +44,7 @@ class convertAccentedCharacters {
 	 * @param string $delimiter
 	 * @return $this
 	 */
-	public function setDelimiter(string $delimiter): convertAccentedCharacters {
+	public function setDelimiter(string $delimiter): transliteratorPlus {
 		$this->delimiter = $delimiter;
 		return $this;
 	}
@@ -61,13 +61,14 @@ class convertAccentedCharacters {
 		// replace all characters from Extended Latin to Basic Latin
 		$ret = transliterator_transliterate('Any-Latin; Latin-ASCII', $text);
 
+
+		// remove all non-Latin characters from string and replace them with delimiter
 		$pattern = '/[^[:alnum:]]+/';
 		if ($this->punctuation) {
 			$pattern = '/[^[:alnum:][^[:punct:]]+/';
 		}
-
-		// remove all non-Latin characters from string and replace them with delimiter
 		$ret = preg_replace($pattern, $this->delimiter, $ret);
+
 
 		// remove white space from begin and end
 		$ret = trim($ret);
