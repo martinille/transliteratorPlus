@@ -1,0 +1,17 @@
+{
+    "name": "martinille/transliterator-plus",
+    "description": "This class extends the functionality of PHP Transliterator class and simplifies working with this class.",
+    "require": {
+        "php": "5 >= 5.4.0 | ^7.0 | ^8.0 ",
+        "ext-intl": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin ILLE",
+            "email": "ille.martin@gmail.com",
+            "homepage": "https://www.brown.sk/",
+            "role": "Developer"
+        }
+    ]
+}
